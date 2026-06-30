@@ -1,0 +1,428 @@
+<mjml lang="en" dir="ltr">
+  <mj-head>
+    <mj-title>2 weeks reminder</mj-title>
+    <mj-attributes>
+      <mj-all padding="0" />
+      <mj-text
+        font-family="Helvetica, Roboto, sans-serif"
+        font-size="16px"
+        color="#000000"
+        line-height="22px"
+      />
+    </mj-attributes>
+
+    <mj-raw>
+      <meta name="color-scheme" content="light" /> <meta
+      name="supported-color-schemes" content="light" />
+    </mj-raw>
+
+    <mj-font
+      name="Roboto"
+      href="https://fonts.googleapis.com/css2?family=Roboto"
+    />
+
+    <mj-style>
+      * {
+        -webkit-font-smoothing: antialiased !important;
+        -moz-osx-font-smoothing: grayscale !important;
+      }
+      a[x-apple-data-detectors],
+      p,
+      a,
+      li,
+      span {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      [data-ogsc] .body-wrapper,
+      [data-ogsb] .body-wrapper {
+        background-color: #ffffff !important;
+      }
+      .body-wrapper {
+        background-image: linear-gradient(#ffffff, #ffffff) !important;
+      }
+      .ReadMsgBody {
+        width: 100%;
+      }
+      .ExternalClass {
+        width: 100%;
+      }
+      .ExternalClass,
+      .ExternalClass p,
+      .ExternalClass span,
+      .ExternalClass font,
+      .ExternalClass td,
+      .ExternalClass div {
+        line-height: 100%;
+      }
+      a.MsoHyperlink,
+      span.MsoHyperlink {
+        mso-style-priority: 99;
+        color: inherit;
+      }
+      a.MsoHyperlinkFollowed,
+      span.MsoHyperlinkFollowed {
+        mso-style-priority: 99;
+        color: inherit;
+      }
+      p,
+      td,
+      div {
+        mso-line-height-rule: exactly;
+      }
+      u + .body-wrapper a {
+        color: inherit;
+        text-decoration: none;
+        font-size: inherit;
+        font-family: inherit;
+        font-weight: inherit;
+        line-height: inherit;
+      }
+      .a6S {
+        display: none !important;
+        opacity: 0.01 !important;
+      }
+      img.g-img + div {
+        display: none !important;
+      }
+      .im {
+        color: inherit !important;
+      }
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        vfont-weight: inherit !important;
+        line-height: inherit !important;
+      }
+
+      @media only screen and (max-width: 480px) {
+        .fluid-padding > table > tbody > tr > td {
+          padding-left: 20px !important;
+          padding-right: 20px !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body css-class="body-wrapper" background-color="#ffffff" width="600px">
+    <mj-section>
+      <mj-column>
+        <mj-text
+          font-family="Roboto, sans-serif"
+          font-size="12px"
+          line-height="22px"
+          color="#A1A1A1"
+          align="right"
+          padding="10px"
+        >
+          No images?
+          <webversion
+            style="
+              color: #a1a1a1;
+              text-decoration: underline;
+              font-family: Roboto, sans-serif;
+              font-size: 12px;
+              line-height: 22px;
+              color: #a1a1a1;
+              text-decoration: underline;
+              cursor: pointer;
+            "
+          >
+            <span
+              style="
+                color: #a1a1a1;
+                text-decoration: underline;
+                font-family: Roboto, sans-serif;
+                font-size: 12px;
+                line-height: 22px;
+                color: #a1a1a1;
+                text-decoration: underline;
+                cursor: pointer;
+              "
+              >Click here</span
+            >
+          </webversion>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="images/21Header.jpg"
+          alt="How RCS will transform Brand engagement"
+          width="600px"
+          href="https://indosat.vonagefuturesecure.com/"
+          target="_blank"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="60px 30px 0 30px" css-class="fluid-padding">
+        <mj-text
+          font-family="Roboto, sans-serif"
+          font-size="16px"
+          line-height="26px"
+          color="#000000"
+          padding-bottom="30px"
+        >
+          Dear [firstname,fallback=],
+        </mj-text>
+        <mj-text
+          font-family="Roboto, sans-serif"
+          font-size="16px"
+          line-height="26px"
+          color="#000000"
+          padding-bottom="30px"
+        >
+          Just a reminder that
+          <b>
+            The Future of Mes saging in APAC: How RCS Will Transform
+            BrandEngagement
+          </b>
+          is happening in <b>two weeks</b>.
+        </mj-text>
+        <mj-text
+          font-family="Roboto, sans-serif"
+          font-size="16px"
+          line-height="36px"
+          padding-bottom="30px"
+        >
+          <b>Event details:</b><br />
+          📅 21 July 2026<br />
+          🕙 10:00 AM - 3:00 PM<br />
+          📍 The Oakspace, Oakroom Premier Cozmo Jakarta
+        </mj-text>
+        <mj-text
+          font-family="Roboto, sans-serif"
+          font-size="16px"
+          line-height="26px"
+          font-weight="bold"
+          color="#000000"
+        >
+          This invite-only event will cover:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0 30px 30px 30px" css-class="fluid-padding">
+        <mj-text>
+          <mj-table
+            style="
+              width: 100%;
+              border-collapse: collapse;
+              mso-table-lspace: 0;
+              mso-table-rspace: 0;
+            "
+            cellpadding="0"
+            cellspacing="0"
+          >
+            <tr>
+              <td
+                style="
+                  width: 20px;
+                  vertical-align: top;
+                  padding: 0;
+                  font-size: 16px;
+                  font-weight: bold;
+                  line-height: 26px;
+                  color: #000000;
+                "
+              >
+                &bull;
+              </td>
+              <td
+                style="
+                  vertical-align: top;
+                  padding: 0;
+                  font-size: 16px;
+                  line-height: 26px;
+                  color: #000000;
+                "
+              >
+                The latest RCS developments across global and APAC markets
+              </td>
+            </tr>
+            <tr>
+              <td
+                style="
+                  width: 20px;
+                  vertical-align: top;
+                  padding: 0;
+                  font-size: 16px;
+                  font-weight: bold;
+                  line-height: 26px;
+                  color: #000000;
+                "
+              >
+                &bull;
+              </td>
+              <td
+                style="
+                  vertical-align: top;
+                  padding: 0;
+                  font-size: 16px;
+                  line-height: 26px;
+                  color: #000000;
+                "
+              >
+                Real-world examples of higher engagement and conversion with RCS
+              </td>
+            </tr>
+            <tr>
+              <td
+                style="
+                  width: 20px;
+                  vertical-align: top;
+                  padding: 0;
+                  font-size: 16px;
+                  font-weight: bold;
+                  line-height: 26px;
+                  color: #000000;
+                "
+              >
+                &bull;
+              </td>
+              <td
+                style="
+                  vertical-align: top;
+                  padding: 0;
+                  font-size: 16px;
+                  line-height: 26px;
+                  color: #000000;
+                "
+              >
+                A live demo of rich, branded RCS experiences
+              </td>
+            </tr>
+            <tr>
+              <td
+                style="
+                  width: 20px;
+                  vertical-align: top;
+                  padding: 0;
+                  font-size: 16px;
+                  font-weight: bold;
+                  line-height: 26px;
+                  color: #000000;
+                "
+              >
+                &bull;
+              </td>
+              <td
+                style="
+                  vertical-align: top;
+                  padding: 0;
+                  font-size: 16px;
+                  line-height: 26px;
+                  color: #000000;
+                "
+              >
+                Strategic insights for your 2026 messaging and CX roadmap
+              </td>
+            </tr>
+          </mj-table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0 30px 30px 30px" css-class="fluid-padding">
+        <mj-text
+          font-family="Roboto, sans-serif"
+          font-size="16px"
+          line-height="26px"
+          color="#000000"
+        >
+          We look forward to seeing you there.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0 30px 60px 30px" css-class="fluid-padding">
+        <mj-text
+          font-family="Roboto, sans-serif"
+          font-size="16px"
+          line-height="26px"
+          color="#000000"
+        >
+          Best regards,<br />
+          <b>Vonage</b><br />
+          APAC RCS Event Team
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 30px 60px 30px" css-class="fluid-padding">
+      <mj-column>
+        <mj-text
+          font-family="Roboto, sans-serif"
+          font-size="12px"
+          line-height="22px"
+          color="#A1A1A1"
+        >
+          <preferences
+            style="
+              color: #a1a1a1;
+              text-decoration: underline;
+              font-family: Roboto, sans-serif;
+              font-size: 12px;
+              line-height: 22px;
+              color: #a1a1a1;
+              text-decoration: underline;
+              cursor: pointer;
+            "
+          >
+            <span
+              style="
+                color: #a1a1a1;
+                text-decoration: underline;
+                font-family: Roboto, sans-serif;
+                font-size: 12px;
+                line-height: 22px;
+                color: #a1a1a1;
+                text-decoration: underline;
+                cursor: pointer;
+              "
+              >Preferences</span
+            >
+          </preferences>
+          &nbsp;&nbsp;|&nbsp;&nbsp;
+          <unsubscribe
+            style="
+              color: #a1a1a1;
+              text-decoration: underline;
+              font-family: Roboto, sans-serif;
+              font-size: 12px;
+              line-height: 22px;
+              color: #a1a1a1;
+              text-decoration: underline;
+              cursor: pointer;
+            "
+          >
+            <span
+              style="
+                color: #a1a1a1;
+                text-decoration: underline;
+                font-family: Roboto, sans-serif;
+                font-size: 12px;
+                line-height: 22px;
+                color: #a1a1a1;
+                text-decoration: underline;
+                cursor: pointer;
+              "
+              >Unsubscribe</span
+            >
+          </unsubscribe>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
