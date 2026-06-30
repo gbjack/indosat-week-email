@@ -1,1 +1,1 @@
-1-2 week confirmation email
+1-2 week confirmation email for Indosat
