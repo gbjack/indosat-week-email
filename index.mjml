@@ -198,9 +198,9 @@
           padding-bottom="30px"
         >
           <b>Event details:</b><br />
-          📅&nbsp;21 July 2026<br />
-          🕙&nbsp;10:00 AM - 3:00 PM<br />
-          📍&nbsp;The Oakspace, Oakroom Premier Cozmo Jakarta
+          📅&nbsp;&nbsp;21 July 2026<br />
+          🕙&nbsp;&nbsp;10:00 AM - 3:00 PM<br />
+          📍&nbsp;&nbsp;The Oakspace, Oakroom Premier Cozmo Jakarta
         </mj-text>
         <mj-text
           font-family="Roboto, sans-serif"
