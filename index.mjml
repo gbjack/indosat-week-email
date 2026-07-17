@@ -1,6 +1,6 @@
 <mjml lang="en" dir="ltr">
   <mj-head>
-    <mj-title>2 weeks reminder</mj-title>
+    <mj-title>Reminder</mj-title>
     <mj-attributes>
       <mj-all padding="0" />
       <mj-text
@@ -189,7 +189,7 @@
             The Future of Messaging in APAC: How RCS Will Transform
             Brand Engagement
           </b>
-          is happening in <b>two weeks</b>.
+          is happening in <b>4 days</b>.
         </mj-text>
         <mj-text
           font-family="Roboto, sans-serif"
@@ -200,7 +200,7 @@
           <b>Event details:</b><br />
           📅&nbsp;&nbsp;21 July 2026<br />
           🕙&nbsp;&nbsp;10:00 AM - 3:00 PM<br />
-          📍&nbsp;&nbsp;The Oakspace, Oakroom Premier Cozmo Jakarta
+          📍&nbsp;&nbsp;The Oakspace, Oakwood Premier Cozmo Jakarta
         </mj-text>
         <mj-text
           font-family="Roboto, sans-serif"
